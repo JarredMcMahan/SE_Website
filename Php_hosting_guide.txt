@@ -1,0 +1,22 @@
+XAMMPP guild: Used to host php site
+1. Download XAMMPP:
+	-	https://www.apachefriends.org/download.html
+2. Install
+3. Launch Program
+4. Start Module Apache and MySQL
+
+phpmyadmin guide: Used to edit php database
+1. Download PhpMyAdmin:
+	-	https://www.phpmyadmin.net/downloads/
+2. Extract files from zip
+3. File in C://XAMPP
+4. Access phpmyadmin:
+	-	http://localhost/phpmyadmin
+5. Import registration.sql from project file.
+
+To host php files:
+	-	https://www.youtube.com/watch?v=TjFRTkw6GDQ
+
+Copy "project" into C:\xampp\htdocs\
+	Homepage URL:	http://localhost/project/index.php
+
